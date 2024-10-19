@@ -1,0 +1,2 @@
+# repo
+ kicad automation
